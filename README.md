@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning <b> everything! 😅 </b>
 
-👨‍💻 You can visit my web portfolio at <a href="https://casiandenisweb.com/en">casiandenisweb.com/en</a>
+👨‍💻 You can visit my web portfolio at <a href="https://casiandenisweb.com/">casiandenisweb.com/</a>
 
 📫 How to reach me <b> casian.denisb@gmail.com </b>
 
