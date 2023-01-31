@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **personal projects 🤓**
 
-- 🌱 I’m currently learning **Node.js, React.js**
+- 🌱 I’m currently learning **Node.js, PHP**
 
 - 👨‍💻 All of my projects are available at <a href="https://casiandenisweb.com/">casiandenisweb.com</a>
 
-- 💬 Ask me about **Javascript, CSS, HTML**
+- 💬 Ask me about **Javascript, CSS, HTML, MySql, MongoDB, Bootstrap, C++ **
 
 - 📫 How to reach me **casian.denisb@gmail.com**
 
