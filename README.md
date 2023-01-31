@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://casiandenisweb.com/">casiandenisweb.com</a>
 
-- 💬 Ask me about **Javascript, CSS, HTML, MySql, MongoDB, Bootstrap, C++ **
-
 - 📫 How to reach me **casian.denisb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
