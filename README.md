@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects 🤓**
 
-- 🌱 I’m currently learning **Node.js, PHP**
+- 🌱 I’m currently learning **Node.js, PHP, C#**
 
 - 👨‍💻 All of my projects are available at <a href="https://casiandenisweb.com/">casiandenisweb.com</a>
 
