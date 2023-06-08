@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at <a href="https://casiandenisweb.com/">casiandenisweb.com</a>
+- 👨‍💻 The FrontEnd projects are available at <a href="https://casiandenisweb.com/">casiandenisweb.com</a>
 
 - 📫 How to reach me **casian.denisb@gmail.com**
 
