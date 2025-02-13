@@ -6,9 +6,7 @@
 
 - 👨‍💻 <a href="https://thebitcrafters.com/">Experience</a>
 
-- 📫 How to reach me **casian.denisb@gmail.com**
 
-<h3 align="left">Connect with me: casian.denisb@gmail.com</h3>
 <p align="left">
 </p>
 
