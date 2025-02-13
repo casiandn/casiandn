@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on **personal projects 🤓**
 
-- 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 The FrontEnd projects are available at <a href="https://casiandenisweb.com/">casiandenisweb.com</a>
+- 👨‍💻 Experience <a href="https://thebitcrafters.com/">thebitcrafters.com</a>
 
 - 📫 How to reach me **casian.denisb@gmail.com**
 
