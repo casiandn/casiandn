@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **personal projects 🤓**
 
 
-- 👨‍💻 Experience <a href="https://thebitcrafters.com/">thebitcrafters.com</a>
+- 👨‍💻 <a href="https://thebitcrafters.com/">Experience</a>
 
 - 📫 How to reach me **casian.denisb@gmail.com**
 
