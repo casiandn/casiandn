@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Casian Denis</h1>
-<h3 align="center">A future full-stack developer from Spain.</h3>
+<h3 align="center">A full-stack developer from Spain.</h3>
 
 - 🔭 I’m currently working on **personal projects 🤓**
 
