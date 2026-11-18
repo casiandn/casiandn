@@ -12,7 +12,7 @@ I build backend services and customer-facing product experiences in regulated ba
 *Jun 2025 – Present · Madrid, Spain*
 
 - Build services and interfaces for international payment flows, including SWIFT message processing and modernisation of legacy systems.
-- Built a micro-frontend from scratch for ING’s mobile app and led UX/UI improvements to an experience used by millions of people each month.
+- Built a micro-frontend from scratch for ING’s mobile app and led UX/UI improvements to an experience used by 5M+ people each month.
 - Facilitate Scrum ceremonies and coordinate delivery across a cross-functional team.
 
 **Technologies:** Java 21, Spring Boot, Kafka, SWIFT MT/MX, ISO 20022, Oracle, Kubernetes, Prometheus, Grafana, Web Components.
